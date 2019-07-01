@@ -24,7 +24,7 @@ if you want to run this project on you pc
 1. Resotre Fevicol.bak file to MS SQL Server
 2. Change this file Fevicol/Repository/GetWay.cs. Use your Data Source & Password
 3. All setup is completed. Let's run it
-4. When Login page need user name = ADMIN & password=1234
+4. Login user name = ADMIN & password=1234
 
 
 ![login](ScreenShot/Screenshot1.png)
