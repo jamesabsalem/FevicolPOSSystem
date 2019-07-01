@@ -5,7 +5,7 @@ Fevicol POS System - ASP.NET Web Form
 1. Login & Log out
 2. Create User
 3. Product Order
-4. Monye Collect
+4. Money Collect
 5. Goods Receive
 6. Setting
 7. All Report
