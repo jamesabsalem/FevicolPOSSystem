@@ -15,6 +15,7 @@ Fevicol POS System - ASP.NET Web Form
 2. DevExpress
 3. SQL SERVER 2019
 4. ASP.NET AJAX Control Toolkit
+5. RDLC Report
 
 ![login](ScreenShot/Screenshot0.png)
 
