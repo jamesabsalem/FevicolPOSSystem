@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <!--String to format with the type to be instantiated.-->
+  <ContainerConstructorFormat>Container.GetInstance&lt;{0}&gt;()</ContainerConstructorFormat>
+  <!--String to format the release of an instantiated object. Leave empty if releasing the object is not required.-->
+  <ContainerReleaseFormat>Container.Release({0})</ContainerReleaseFormat>
+  <!--Types to generate constructors for.-->
+  <IncludedTypes>
+    <Type>System.Web.UI.MasterPage</Type>
+    <Type>System.Web.UI.Page</Type>
+    <Type>System.Web.UI.UserControl</Type>
+    <Type>System.Web.IHttpHandler</Type>
+    <Type>System.Web.IHttpModule</Type>
+    <Type>System.Web.Services.WebService</Type>
+  </IncludedTypes>
+  <!--If true, the template output will be split into multiple files.-->
+  <SplitIntoMultipleFiles>False</SplitIntoMultipleFiles>
+  <!--If true, the template output will include documentation for the constructor.-->
+  <IncludeDocumentation>False</IncludeDocumentation>
+  <!--If true, the template output will include a registration list of all items to be injected.-->
+  <OutputRegistrationList>False</OutputRegistrationList>
+</Settings>

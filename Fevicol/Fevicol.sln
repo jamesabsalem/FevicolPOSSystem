@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fevicol", "Fevicol\Fevicol.csproj", "{E7AB3387-E7EA-4174-8CFC-A82338DEDBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{233FB3F4-AC48-4E9C-9022-904D97A1BF3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7AB3387-E7EA-4174-8CFC-A82338DEDBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AB3387-E7EA-4174-8CFC-A82338DEDBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AB3387-E7EA-4174-8CFC-A82338DEDBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AB3387-E7EA-4174-8CFC-A82338DEDBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233FB3F4-AC48-4E9C-9022-904D97A1BF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233FB3F4-AC48-4E9C-9022-904D97A1BF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233FB3F4-AC48-4E9C-9022-904D97A1BF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233FB3F4-AC48-4E9C-9022-904D97A1BF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
